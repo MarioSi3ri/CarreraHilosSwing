@@ -255,7 +255,7 @@ Desarrollado por **MarioSi3ri** como proyecto académico para la asignatura **T�
 
 ## 📄 Licencia
 
-Este repositorio no declara actualmente una licencia de código abierto. Si deseas reutilizar, modificar o distribuir el proyecto, consulta primero con el autor.
+Este proyecto se distribuye bajo la **Licencia MIT**. Consulta el archivo [LICENSE](LICENSE) para conocer los términos completos.
 
 ---
 
